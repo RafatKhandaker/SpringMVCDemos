@@ -1,0 +1,16 @@
+package com.BlackJack.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.BlackJack.model.Exercise;
+
+@Controller 
+public class MinutesController {
+	
+	@RequestMapping(value = "/addMinutes" )
+	public String addMinutes(@ModelAttribute ("exercise") Exercise exercise) {
+		return "addMinutes";
+	}
+}

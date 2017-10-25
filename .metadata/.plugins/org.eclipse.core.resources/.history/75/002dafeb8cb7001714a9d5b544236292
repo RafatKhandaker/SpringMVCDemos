@@ -1,0 +1,6 @@
+package com.BlackJack.controller;
+
+@Controller
+public class GoalController {
+
+}

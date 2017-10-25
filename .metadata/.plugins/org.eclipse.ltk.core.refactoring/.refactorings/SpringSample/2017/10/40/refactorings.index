@@ -1,0 +1,5 @@
+1507262768951	Extract interface 'ICustomerRepository'
+1507262899304	Rename package 'com.BlackJack'
+1507263461504	Rename type 'ICustomerService'
+1507263482966	Rename type 'HibernateCustomerRepositoryImpl'
+1507263515135	Extract interface 'ICustomerService'

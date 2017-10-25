@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/blackjack/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1211579879.index
+4169789120.index
+3431961760.index
+1028385075.index
+922132962.index
+2847560336.index
+3395940065.index
+2847560336.index

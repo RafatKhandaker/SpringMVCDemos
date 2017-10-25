@@ -1,0 +1,12 @@
+package com.BlackJack.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class GoalController {
+	
+	public String addGoal() {
+		
+	}
+
+}

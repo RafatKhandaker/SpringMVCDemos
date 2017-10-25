@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringSample_xml"/>
+<aop-project name="SpringSample_Java"/>
+<aop-project name="LazyEngineers"/>
+<aop-project name="SpringSample_xml_anno"/>
+</aop-reference-model>

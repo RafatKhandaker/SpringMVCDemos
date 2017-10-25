@@ -1,0 +1,14 @@
+package com.BlackJack.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+@Controller
+public class GoalController {
+	
+	public String addGoal(Model model) {
+		model.addAttribute("goal", new Goal());
+		return "";
+	}
+
+}
