@@ -1,0 +1,21 @@
+package com.BlackJack.model;
+
+public class Exercise {
+	
+	private int minutes;
+	
+	private String activities;
+	
+	public int getMinutes() {
+		return minutes;
+	}
+	
+	public void setMinutes(int minutes) { 
+		this.minutes = minutes; 
+	}
+	
+	public String getActivities() { return activities; }
+	
+	public void setActivities(String activities) { this.activities = activities; }
+
+}

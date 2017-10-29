@@ -1,5 +1,4 @@
 package com.BlackJack.model;
-
 import org.hibernate.validator.constraints.Range;
 
 public class Goal {
